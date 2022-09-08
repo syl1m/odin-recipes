@@ -2,6 +2,8 @@
 This is a project to Build a recipe website.
 
 Skills demonstrated:
-    - Familiarization with using Git
+    - Familiarization with Git
     - Basic HTML build 
+        - Links and images
+        - Ordered and Unordered Lists
     
