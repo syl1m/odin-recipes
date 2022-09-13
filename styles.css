@@ -1,0 +1,25 @@
+body {
+    font-family: "Verdana",Cambria,sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(189, 141, 238);
+    color: black;
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h1,
+h2 {
+    font-family: "Brush Script MT";
+}
+
+img {
+    height: auto;
+    width: 700px;
+}
